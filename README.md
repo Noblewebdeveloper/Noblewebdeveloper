@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noble
 - I'm a full stack developer 
-- My stacks: PHP, Javascript, SQL, CSS, HTML, REACT, ANGULAR, NODE, Express, MongoDB.
+- My stacks: PHP, Laravel, Javascript, SQL, CSS, HTML, REACT, ANGULAR, NODE, Express, MongoDB.
 - 👀 I’m interested in anything about web development.
 - 🌱 I love playing video games and drinking beer.
 - 💞️ I’m looking to collaborate on any web development project, render help whenever I can and learn new amazing things.
